@@ -1,0 +1,1 @@
+# EllesmereUI-Reputation_Bar_Advanced_Text_Format
