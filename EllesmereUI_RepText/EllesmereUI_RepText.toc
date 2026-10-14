@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
+## Title: EllesmereUI |cff0cd29fRep Text|r
+## Notes: Text Format for the EllesmereUI reputation bar (percent, current / max, remaining, or all). Settings: Action Bars > Menu, Bags & Rep Bars. /reptext
+## Author: Custom
+## Version: 1.0.0
+## Dependencies: EllesmereUI, EllesmereUIActionBars
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+RepText.lua
+RepText_Options.lua
